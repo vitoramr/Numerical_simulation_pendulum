@@ -1,7 +1,8 @@
 # Numerical simulation of a pendulum
 
-<p align="left">
-  <img width="140" src="https://github.com/vitoramr/Numerical_simulation_pendulum/blob/main/EP3/Model_EP3.PNG" alt="EP3 Model"/>
+<p align="cener">
+  <img width="250" src="https://github.com/vitoramr/Numerical_simulation_pendulum/blob/main/EP3/Model_EP3.PNG" alt="EP3 Model"/>
+  <img width="530" src="https://github.com/vitoramr/Numerical_simulation_pendulum/blob/main/EP3/Pendulum_gif.gif" alt="EP3 Gif"/>
 </p>
 
 ### Escola Politécnica da Universidade de São Paulo
@@ -44,7 +45,7 @@ The model's parameters are:
 - ![Omega m](https://latex.codecogs.com/gif.latex?%5Comega_m) = Momentum oscillating frequency [rad/s]
 - ![Phi](https://latex.codecogs.com/gif.latex?%5Cphi) = Momentum initial fase [rad/s]
 
-### 2st Exercise (EP2)
+### 2nd Exercise (EP2)
 
 The second exercise uses a model similar to the first one. The difference is that the fixed body is attached to the edge of the pendulum and there is a wall that stops the pendulum from advancing to the left. Hence, the collision between the pendulum and the wall has also to be dealt with.
 
@@ -58,7 +59,7 @@ The additional parameters for the second model are:
 - ![tm](https://latex.codecogs.com/gif.latex?t_m) = Initial time for the momentum activation [s]
 
 
-### 3st Exercise (EP3)
+### 3rd Exercise (EP3)
 
 <p align="center">
   <img width="200" src="https://github.com/vitoramr/Numerical_simulation_pendulum/blob/main/EP3/Model_EP3.PNG" alt="EP3 Model"/>
